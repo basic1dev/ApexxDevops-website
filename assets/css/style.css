@@ -1,9 +1,11 @@
 html, body {
     overflow-x: hidden;
-    background-color: #171717;
+    /* background-color: #171717; */
+     
     color: #ffffff;
   }
-  
+
+
   /**
    * Enable smooth scrolling on the whole document
    */
@@ -60,7 +62,7 @@ html, body {
   .nav-link:hover,
   .nav-link:focus,
   .active .nav-link {
-    color: rgba(0, 0, 0, 0.6) !important;
+    color: #b7006d !important;
   }
   
   /* Hero (intro) section */
