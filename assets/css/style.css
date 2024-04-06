@@ -284,4 +284,16 @@ html, body {
   .entry-title a {
     text-decoration: none;
   }
+
+  .btn{
+    font-weight: bold;
+    
+  }
+ 
+
+  .btn:hover{
+    transform: scale(1.1);
+    transition: ease;
+    
+  }
   
